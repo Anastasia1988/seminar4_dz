@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\bin\Debug\net7.0\zadacha27_2.exe
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\bin\Debug\net7.0\zadacha27_2.deps.json
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\bin\Debug\net7.0\zadacha27_2.runtimeconfig.json
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\bin\Debug\net7.0\zadacha27_2.dll
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\bin\Debug\net7.0\zadacha27_2.pdb
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\obj\Debug\net7.0\zadacha27_2.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\obj\Debug\net7.0\zadacha27_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\obj\Debug\net7.0\zadacha27_2.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\obj\Debug\net7.0\zadacha27_2.AssemblyInfo.cs
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\obj\Debug\net7.0\zadacha27_2.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\obj\Debug\net7.0\zadacha27_2.dll
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\obj\Debug\net7.0\refint\zadacha27_2.dll
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\obj\Debug\net7.0\zadacha27_2.pdb
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\obj\Debug\net7.0\zadacha27_2.genruntimeconfig.cache
+C:\Users\HOME\Desktop\C#_seminar4_dz\zadacha27_2\obj\Debug\net7.0\ref\zadacha27_2.dll
